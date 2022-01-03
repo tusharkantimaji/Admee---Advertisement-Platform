@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.all_details {
+  pointer-events: none;
+}
+#details:active {
+  background-color: red;
+}
